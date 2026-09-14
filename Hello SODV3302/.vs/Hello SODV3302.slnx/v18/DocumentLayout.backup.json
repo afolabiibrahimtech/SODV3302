@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\SODV3302\\Hello SODV3302\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B7A71F8-BD70-4160-8E56-EB3F1E0A1CE5}|Hello SODV3302\\Hello SODV3302.csproj|c:\\sodv3302\\hello sodv3302\\hello sodv3302\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7A71F8-BD70-4160-8E56-EB3F1E0A1CE5}|Hello SODV3302\\Hello SODV3302.csproj|solutionrelative:hello sodv3302\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BDF24DC-927E-51A2-17F3-A1010E595BD4}|Hello SODV3302\\Hello SODV3302.csproj|c:\\sodv3302\\hello sodv3302\\hello sodv3302\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDF24DC-927E-51A2-17F3-A1010E595BD4}|Hello SODV3302\\Hello SODV3302.csproj|solutionrelative:hello sodv3302\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +24,10 @@
               "RelativeDocumentMoniker": "Hello SODV3302\\Program.cs",
               "ToolTip": "C:\\SODV3302\\Hello SODV3302\\Hello SODV3302\\Program.cs",
               "RelativeToolTip": "Hello SODV3302\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-02T18:14:08.229Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

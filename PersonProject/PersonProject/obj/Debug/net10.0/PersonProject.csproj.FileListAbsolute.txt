@@ -1,0 +1,15 @@
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\PersonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\PersonProject.AssemblyInfoInputs.cache
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\PersonProject.AssemblyInfo.cs
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\PersonProject.csproj.CoreCompileInputs.cache
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\PersonProject.sourcelink.json
+C:\SODV3302\PersonProject\PersonProject\bin\Debug\net10.0\PersonProject.exe
+C:\SODV3302\PersonProject\PersonProject\bin\Debug\net10.0\PersonProject.deps.json
+C:\SODV3302\PersonProject\PersonProject\bin\Debug\net10.0\PersonProject.runtimeconfig.json
+C:\SODV3302\PersonProject\PersonProject\bin\Debug\net10.0\PersonProject.dll
+C:\SODV3302\PersonProject\PersonProject\bin\Debug\net10.0\PersonProject.pdb
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\PersonProject.dll
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\refint\PersonProject.dll
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\PersonProject.pdb
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\PersonProject.genruntimeconfig.cache
+C:\SODV3302\PersonProject\PersonProject\obj\Debug\net10.0\ref\PersonProject.dll

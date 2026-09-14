@@ -1,0 +1,15 @@
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\csproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\csproject.AssemblyInfoInputs.cache
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\csproject.AssemblyInfo.cs
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\csproject.csproj.CoreCompileInputs.cache
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\csproject.sourcelink.json
+C:\SODV3302\csproject\csproject\bin\Debug\net10.0\csproject.exe
+C:\SODV3302\csproject\csproject\bin\Debug\net10.0\csproject.deps.json
+C:\SODV3302\csproject\csproject\bin\Debug\net10.0\csproject.runtimeconfig.json
+C:\SODV3302\csproject\csproject\bin\Debug\net10.0\csproject.dll
+C:\SODV3302\csproject\csproject\bin\Debug\net10.0\csproject.pdb
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\csproject.dll
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\refint\csproject.dll
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\csproject.pdb
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\csproject.genruntimeconfig.cache
+C:\SODV3302\csproject\csproject\obj\Debug\net10.0\ref\csproject.dll
