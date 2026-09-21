@@ -1,0 +1,15 @@
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.AssemblyInfoInputs.cache
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.AssemblyInfo.cs
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.csproj.CoreCompileInputs.cache
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.sourcelink.json
+C:\SODV3302\BankAccountProject\BankAccountProject\bin\Debug\net10.0\BankAccountProject.exe
+C:\SODV3302\BankAccountProject\BankAccountProject\bin\Debug\net10.0\BankAccountProject.deps.json
+C:\SODV3302\BankAccountProject\BankAccountProject\bin\Debug\net10.0\BankAccountProject.runtimeconfig.json
+C:\SODV3302\BankAccountProject\BankAccountProject\bin\Debug\net10.0\BankAccountProject.dll
+C:\SODV3302\BankAccountProject\BankAccountProject\bin\Debug\net10.0\BankAccountProject.pdb
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.dll
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\refint\BankAccountProject.dll
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.pdb
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.genruntimeconfig.cache
+C:\SODV3302\BankAccountProject\BankAccountProject\obj\Debug\net10.0\ref\BankAccountProject.dll
