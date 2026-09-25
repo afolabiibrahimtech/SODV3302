@@ -1,0 +1,5 @@
+C:\SODV3302\StudentListExample\StudentListExample\obj\Debug\net10.0\StudentListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\SODV3302\StudentListExample\StudentListExample\obj\Debug\net10.0\StudentListExample.AssemblyInfoInputs.cache
+C:\SODV3302\StudentListExample\StudentListExample\obj\Debug\net10.0\StudentListExample.AssemblyInfo.cs
+C:\SODV3302\StudentListExample\StudentListExample\obj\Debug\net10.0\StudentListExample.csproj.CoreCompileInputs.cache
+C:\SODV3302\StudentListExample\StudentListExample\obj\Debug\net10.0\StudentListExample.sourcelink.json
